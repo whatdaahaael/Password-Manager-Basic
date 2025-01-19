@@ -1,0 +1,10 @@
+{
+  "WIN":"Password Manager",
+  "IMAGE" :"logo.png",
+  "FONT_NAME": "JetBrains Mono",
+  "DEFUALT_FONT_SETTINGS" : {
+    "FONT_NAME":"JetBrains Mono",
+    "SIZE":12,
+    "TYPE":"normal"
+  }
+}
