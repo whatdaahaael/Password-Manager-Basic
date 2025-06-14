@@ -77,7 +77,6 @@ A simple, modern password manager built with Python and a beautiful UI using cus
 
 ## Credits
 - UI: [customTkinter](https://github.com/TomSchimansky/CustomTkinter)
-- Developed by the open-source community
 
 ---
 **Note:** All data is stored locally. Keep your encryption key and password safe!
